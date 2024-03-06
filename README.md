@@ -24,8 +24,7 @@
 
 ###
 
-<div align="left">
-  [GMAIL](mailto:utku0iletisim@gmail.com)
-</div>
+[GMAIL](mailto:utku0iletisim@gmail.com)
+
 
 ###
